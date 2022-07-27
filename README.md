@@ -21,3 +21,6 @@ upload the code to your arduino then make sure the cables are in place.
 on the website, there are two buttons
 1. Choose a COM port: this will pop up a window for you to choose the COM port for your arduino
 2. Speak: press it to command the servo motor with the key words above.
+
+if you have any problems with the voice recognition, make sure that the correct microphone is selected.
+if it does not work, try using Chrome.
