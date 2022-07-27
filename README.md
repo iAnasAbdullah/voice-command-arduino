@@ -23,4 +23,4 @@ on the website, there are two buttons
 2. Speak: press it to command the servo motor with the key words above.
 
 if you have any problems with the voice recognition, make sure that the correct microphone is selected.
-if it does not work, try using Chrome.
+if it still not work, try using Chrome.
